@@ -1,0 +1,13 @@
+{
+  "name": "stockflow-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "StockFlow MVP - a simple multi-tenant SaaS inventory management app.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
